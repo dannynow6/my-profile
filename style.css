@@ -1,0 +1,9 @@
+.contact-info {
+    text-decoration: none;
+}
+
+.contact-info:hover {
+    background: rgb(75, 191, 254);
+    color: white;
+}
+
