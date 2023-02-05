@@ -7,3 +7,29 @@
     color: white;
 }
 
+#about-profile {
+    color: rgb(58, 58, 58);
+    font-weight: 400;
+    text-align: left;
+}
+
+#about-title {
+    font-family: Roboto;
+    text-align: center;
+    font-weight: 400;
+    color:rgb(94, 94, 94);
+    text-shadow: 2px 2px 1px rgb(178, 176, 176);
+}
+
+#profile {
+    padding-left: 5%;
+    font-family: Roboto;
+}
+
+#my-prof {
+    color:rgb(87, 87, 87);
+}
+
+#my-edu {
+    color:rgb(87, 87, 87);
+}
